@@ -7,9 +7,9 @@ import time
 import cv2
 
 # construct the arguments parse and parse the arguments
-ap = argparse.ArgumentParser()
+'''ap = argparse.ArgumentParser()
 ap.add_argument("-p", "--videopath", required=True, help="path of the video file")
-args = vars(ap.parse_args())
+args = vars(ap.parse_args())'''
 
 
 
